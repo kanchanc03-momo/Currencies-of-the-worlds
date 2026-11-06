@@ -1,0 +1,8 @@
+Currency Atlas
+
+From this folder, run:
+  py app.py
+
+Then open: http://127.0.0.1:8000
+
+The app reads cleaned_currency_data.csv from this folder.

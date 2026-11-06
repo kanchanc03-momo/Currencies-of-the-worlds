@@ -1,0 +1,1 @@
+"""Currency Atlas backend package."""

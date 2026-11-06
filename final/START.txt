@@ -1,0 +1,7 @@
+Run the advanced edition from the project root:
+
+py final/app.py
+
+Open: http://127.0.0.1:8000
+
+Keep cleaned_currency_data.csv in the project root. No pip, Node.js, or requirements install is needed.
